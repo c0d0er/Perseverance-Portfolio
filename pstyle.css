@@ -1,0 +1,48 @@
+header nav div a {
+    font-weight: 900;
+}
+
+.smaller-image {
+    width: 250px;
+    border-radius: 30px;
+    border-radius: 100%;
+}
+
+.jumbotron-1 {
+    height: 700px;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    color: #000000;
+    background-image: url('https://kanzensakura.files.wordpress.com/2014/06/fuji-dawn.jpg');
+}
+
+.per {
+    font-size: 750%;
+    color: black;
+}
+
+.my-portfolio {
+    font-weight: 700;
+    font-size: 250%;
+}
+
+#portfolio-names {
+    font-weight: 600;
+    font-size: 150%;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer li {
+    padding: 10px;
+}
+
+.jumbotron-2 {
+    background-image: url('http://bit.ly/2aLsb4O');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+}
