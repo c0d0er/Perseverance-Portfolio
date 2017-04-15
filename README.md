@@ -1,5 +1,5 @@
 ## Perseverance Portfolio
-#### Check it out [here](https://c0d0er.github.io/Simon-Game/)
+#### Check it out [here](https://c0d0er.github.io/Perseverance-Portfolio/)
 
 #### Fulfill the below user stories:
 - User Story: I can access all of the portfolio webpage's content just by scrolling.
